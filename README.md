@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Peka272727 
+- 👋 Hi, I’m @Peka272727
+- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 - 👀 I’m interested in advanced sports metrics, learning math, philosophy and physics.
 -  I’m currently learning in high school.
 - 💞️ I’m looking to collaborate on ...
